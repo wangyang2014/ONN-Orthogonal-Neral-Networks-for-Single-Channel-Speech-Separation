@@ -1,4 +1,4 @@
-# ONN-Orthogonal-Neral-Networks-for-Single-Channel-Speech-Separation
+# ONN Orthogonal neural network for Single Channel Speech Separation
 Orthogonal Neral Networks , Single-Channel Speech Separation, Deep Learning   
 ## Generation Mixed speech  
 Mixed speech generation tool：reference the links:create-speaker-mixtures[http://www.merl.com/demos/deep-clustering]  
